@@ -102,7 +102,7 @@
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>Landmark Technologies Snapshot Nexus Repository</name>
 	      <url>http://http://15.222.246.83:8081/repository/Lexusproject-snapshot/</url>
 	    </snapshotRepository>
 	    
